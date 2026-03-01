@@ -1,0 +1,9 @@
+public/
+node_modules/
+_zenn_original/
+.hugo_build.lock
+resources/_gen/
+*.egg-info/
+__pycache__/
+dist/
+build/
